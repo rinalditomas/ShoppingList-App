@@ -1,0 +1,7 @@
+Shopping list app build with react native and firebase.
+Things that need to be improved:
+-adaptability of the screen while the keyboard is on the screen
+-been able to see the archived items inside the archived list.
+-improve UI/UX
+-reuse components that are duplicated
+
